@@ -5,4 +5,4 @@ You can use the [editor on GitHub](https://github.com/dbrunkow/dbrunkow.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Book Notes
-* [RHCSA/RHCE - Red Hat Linux Certification Study Guide](../summary-rhcsa-rhca)
+* [RHCSA/RHCE - Red Hat Linux Certification Study Guide](https://github.com/dbrunkow/summary-rhcsa-rhca)
